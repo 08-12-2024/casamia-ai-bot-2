@@ -1,1 +1,1 @@
-{"name":"casamia-ai-bot","version":"1.0.0","description":"CASAMIA WhatsApp AI Bot","main":"server.js","type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2"}}
+{"type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"latest"}}
